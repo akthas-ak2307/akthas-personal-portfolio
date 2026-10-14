@@ -22,27 +22,27 @@ const projects = [
     description:
       "A voting platform designed to support public and private polls, prevent duplicate voting, and display live results.",
     stack: ["React", "Spring Boot", "Java", "Database"],
-    github: "https://github.com/akthas-ak2307/online-voting-system",
+    github: "https://github.com/iamneo-production/70279fac-d5cb-430a-bf26-711fa99dcece-b60b8308-970e-486b-83a1-4e85558a8e79",
     demo: "",
   },
   {
     number: "02",
-    title: "AI-Powered 2D Game",
+    title: "AI-Powered 2D Games",
     category: "Game Development",
     description:
       "A 2D game development project exploring adaptive gameplay, enemy AI, pathfinding, and strategic player interaction.",
     stack: ["Godot", "GDScript", "Game AI"],
-    github: "https://github.com/YOUR_USERNAME/YOUR_GAME_REPO",
+    github: "https://github.com/Panther-Mughil/VoidGames",
     demo: "",
   },
   {
     number: "03",
-    title: "Machine Learning Experiments",
-    category: "Machine Learning",
+    title: "Remote Worker Check-In Tracking System",
+    category: "Backend Development",
     description:
-      "A collection of experiments exploring classification, model evaluation, and practical machine learning workflows.",
-    stack: ["Python", "Scikit-learn", "Jupyter"],
-    github: "https://github.com/YOUR_USERNAME/YOUR_ML_REPO",
+      "A Spring Boot backend system for managing remote employee attendance, check-in/check-out records, and daily attendance summaries. Features RESTful APIs, employee and admin CRUD operations, paginated reports, repository-based data access, and global exception handling.",
+    stack: ["Java", "Spring Boot", "Spring Data JPA", "REST APIs", "SQL"],
+    github: "https://github.com/iamneo-production-4/746917d2-ddcd-44bc-b4b3-bbdc72564c8c-54960929-9d32-4b95-b62e-7ceec1bc1d45/tree/Remote-Worker-Check-In-Tracking-System-akthas-ak2307",
     demo: "",
   },
 ];
@@ -159,7 +159,7 @@ function App() {
                 <Github size={19} />
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/akthas-ahmed-9488712a5/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
@@ -337,7 +337,7 @@ function App() {
                 <Github size={17} /> GitHub
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/akthas-ahmed-9488712a5/"
                 target="_blank"
                 rel="noreferrer"
               >
