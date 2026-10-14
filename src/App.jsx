@@ -211,7 +211,7 @@ function App() {
 
         <section className="section-shell section-block" id="about">
           <SectionHeading
-            label="01 / ABOUT"
+            label="ABOUT"
             title="A little about me."
             description="A student, a developer, and a lifelong learner."
           />
@@ -251,7 +251,7 @@ function App() {
 
         <section className="section-shell section-block" id="skills">
           <SectionHeading
-            label="02 / TOOLKIT"
+            label="TOOLKIT"
             title="Technologies I work with."
             description="Tools and concepts I'm learning and using in my projects."
           />
@@ -272,7 +272,7 @@ function App() {
 
         <section className="section-shell section-block" id="projects">
           <SectionHeading
-            label="03 / SELECTED WORK"
+            label="SELECTED WORK"
             title="Projects I've explored."
             description="A selection of projects that reflect my interests and learning."
           />
@@ -319,7 +319,7 @@ function App() {
 
         <section className="section-shell section-block contact-section" id="contact">
           <div className="contact-card">
-            <span className="eyebrow">04 / CONTACT</span>
+            <span className="eyebrow">CONTACT</span>
             <h2>Have an idea? Let's talk.</h2>
             <p>
               Interested in collaborating, discussing projects, or
