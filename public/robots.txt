@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://akthas-personal-portfolio-phczc2shb-spectrum11-d2ee.vercel.app/sitemap.xml
+Sitemap: https://akthas-personal-portfolio.vercel.app/sitemap.xml
